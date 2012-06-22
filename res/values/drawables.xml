@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="notification_item_background">@drawable/com_android_systemui_notification_item_background</drawable>
+    <drawable name="notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</drawable>
+    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="notification_item_background_color">#ff000000</item>
+    <item type="drawable" name="notification_item_background_color_pressed">#ff3eb8f6</item>
+    <item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
+    <drawable name="status_bar_background">@drawable/com_android_systemui_statusbar_background</drawable>
+    <item type="drawable" name="status_bar_recents_background_solid">#b3000000</item>
+    <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
+    <item type="drawable" name="status_bar_notification_row_background_color">#ff222222</item>
+    <drawable name="notification_header_bg">@drawable/com_android_systemui_notification_header_background</drawable>
+    <item type="drawable" name="notification_tracking_bg">#d8000000</item>
+    <item type="drawable" name="recents_callout_line">#99ffffff</item>
+    <item type="drawable" name="notification_item_background_legacy_color">#ffaaaaaa</item>
+    <drawable name="navigation_bar_background">@drawable/com_android_systemui_navigationbar_background</drawable>
+    <drawable name="navigation_bar_background_land">@drawable/com_android_systemui_navigationbar_background_land</drawable>
+    <drawable name="alert_dark_frame">@drawable/frameworks_res_popup_full_dark</drawable>
+    <drawable name="alert_light_frame">@drawable/frameworks_res_popup_full_bright</drawable>
+    <drawable name="dialog_frame">@drawable/frameworks_res_panel_background</drawable>
+    <drawable name="editbox_dropdown_dark_frame">@drawable/frameworks_res_editbox_dropdown_background_dark</drawable>
+    <drawable name="editbox_dropdown_light_frame">@drawable/frameworks_res_editbox_dropdown_background</drawable>
+    <drawable name="menu_frame">@drawable/frameworks_res_menu_background</drawable>
+    <drawable name="menu_full_frame">@drawable/frameworks_res_menu_background_fill_parent_width</drawable>
+    <drawable name="stat_notify_sync_noanim">@drawable/frameworks_res_stat_notify_sync_anim0</drawable>
+    <item type="drawable" name="screen_background_dark">#ff000000</item>
+    <item type="drawable" name="screen_background_light">#ffffffff</item>
+    <item type="drawable" name="screen_background_dark_transparent">#80000000</item>
+    <item type="drawable" name="screen_background_light_transparent">#80ffffff</item>
+    <drawable name="dialog_holo_dark_frame">@drawable/frameworks_res_dialog_full_holo_dark</drawable>
+    <drawable name="dialog_holo_light_frame">@drawable/frameworks_res_dialog_full_holo_light</drawable>
+    <item type="drawable" name="status_bar_closed_default_background">#ff000000</item>
+    <item type="drawable" name="status_bar_opened_default_background">#ff000000</item>
+    <item type="drawable" name="search_bar_default_color">#ff000000</item>
+    <item type="drawable" name="safe_mode_background">#60000000</item>
+    <item type="drawable" name="input_method_fullscreen_background">#fff9f9f9</item>
+    <item type="drawable" name="selected_day_background">#ff0092f4</item>
+    <item type="drawable" name="screen_background_holo_light">#fff3f3f3</item>
+    <item type="drawable" name="screen_background_holo_dark">#ff000000</item>
+</resources>

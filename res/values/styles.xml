@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Achromatic" parent="@android:style/Theme" />
+    <style name="DialtactsTheme" parent="@android:style/Theme.Wallpaper">
+        <item name="android:windowBackground">@drawable/custom_background_dialer</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

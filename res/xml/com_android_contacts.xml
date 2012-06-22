@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="mipmap/ic_launcher_phone">@drawable/ic_launcher_phone</item> 
+    <item name="mipmap/ic_launcher_contacts">@drawable/ic_launcher_contacts</item> 
+    <item name="drawable/dial_num_0_wht">@drawable/com_android_contacts_dial_num_0_wht</item> 
+    <item name="drawable/dial_num_1_wht">@drawable/com_android_contacts_dial_num_1_wht</item> 
+    <item name="drawable/dial_num_2_wht">@drawable/com_android_contacts_dial_num_2_wht</item> 
+    <item name="drawable/dial_num_3_wht">@drawable/com_android_contacts_dial_num_3_wht</item> 
+    <item name="drawable/dial_num_4_wht">@drawable/com_android_contacts_dial_num_4_wht</item> 
+    <item name="drawable/dial_num_5_wht">@drawable/com_android_contacts_dial_num_5_wht</item> 
+    <item name="drawable/dial_num_6_wht">@drawable/com_android_contacts_dial_num_6_wht</item> 
+    <item name="drawable/dial_num_7_wht">@drawable/com_android_contacts_dial_num_7_wht</item> 
+    <item name="drawable/dial_num_8_wht">@drawable/com_android_contacts_dial_num_8_wht</item> 
+    <item name="drawable/dial_num_9_wht">@drawable/com_android_contacts_dial_num_9_wht</item> 
+    <item name="drawable/ab_solid_custom_blue_inverse_holo">@drawable/com_android_contacts_ab_solid_custom_blue_inverse_holo</item> 
+    <item name="drawable/aggregation_suggestions_bg_light_holo">@drawable/com_android_contacts_aggregation_suggestions_bg_light_holo</item> 
+    <item name="drawable/list_pressed_holo">@drawable/com_android_contacts_list_pressed_holo</item> 
+    <item name="drawable/list_pressed_holo_light">@drawable/com_android_contacts_list_pressed_holo_light</item> 
+    <item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item> 
+    <item name="color/quickcontact_tab_indicator">@color/sampletheme_maincolor</item>
+    <item name="color/call_log_voicemail_highlight_color">@color/sampletheme_maincolor</item>
+    <item name="color/people_app_theme_color">@color/sampletheme_maincolor</item>
+    <item name="drawable/dialpad_background">@drawable/sampletheme_background</item> 
+    <item name="drawable/background_dial_holo_dark">@drawable/sampletheme_background</item> 
+    <item name="drawable/ic_contact_picture_holo_dark">@drawable/ic_contact_picture</item> 
+    <!--item name="color/primary_text_color">@color/sampletheme_maincolor</item>
+    <item name="style/ListViewStyle">android:style/Widget.Holo.ListView</item-->
+</resource-redirections>
